@@ -15,7 +15,7 @@ nav_order: 2
 
 # Basic Info
 CS 3140
-Fall 2022 Semester   
+Spring 2023 Semester   
 
 Course Website - [https://cs3140.com](https://cs3140.com)
 
@@ -27,25 +27,16 @@ Online Textbook:
 [https://sde-course.com](https://sde-course.com)
 
 Drive Folder:
-[https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing](https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing)
+[https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=share_link](https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=share_link)
 
 
 ## Lecture Sections
-Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in Newcomb Hall Theater
-Section 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Newcomb Hall Theater
+Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in John W. Warner Hall 209
+Section 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Wilson Hall 402
 
 
 ## Staff Information
-__Instructor:__ Prof. Will McBurney    
-Office: Rice 404  
-Office Hours:
-* Mondays 3:30 a.m. to 5:00 p.m.
-* Wednesdays 1:30 p.m. to 3:00 p.m.   
-* Fridays 2:30 p.m. to 4:00 p.m.  
-Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
-Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
-
-__Instructor:__ Prof. Richard Nguyen  
+__Instructor:__ Prof. Nhat Rich Nguyen  
 Office: Rice 202   
 Office Hours: TBD  
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)    
@@ -135,7 +126,7 @@ This is the website that you are currently on. Here you can find:
 
 - Syllabus (you're looking at it!)
 - Announcements (also posted on Collab via email distribution)
-- [Course Schedule](https://uva-cs3140-fa22.github.io/schedule.html) - if the schedule changes this is kept up to date
+- [Course Schedule](https://uva-cs3140-sp23.github.io/schedule.html) - if the schedule changes this is kept up to date
 - Office Hours Schedule (coming soon)
 
 The schedule and assignments information page will include links to 
@@ -206,7 +197,7 @@ Usually within 24 hours of Raw Exam Scores being posted on Gradescope.
 
 ## Piazza
 
-Piazza @ [https://piazza.com/class/ksgd48h3znp1p](https://piazza.com/class/ksgd48h3znp1p)    
+Piazza @ [https://piazza.com/virginia/spring2023/cs3140s23/home](https://piazza.com/virginia/spring2023/cs3140s23/home)    
 
 We will be using Piazza for the following:
 
@@ -255,19 +246,19 @@ in a class this large.
 
 # Assessment and Grading
 
-| Grade | Minimum Percentage | CR/NC |
-|-------|--------------------|-------|
-| A     | 93.0%              | CR    |
-| A-    | 90.0%              | CR    |
-| B+    | 87.0%              | CR    |
-| B     | 83.0%              | CR    |
-| B-    | 80.0%              | CR    |
-| C+    | 77.7%              | CR    |
-| C*    | 70.0%              | CR    |
-| D+    | 67.0%              | GC    |
-| D     | 63.0%              | GC    |
-| D-    | 60.0%              | GC    |
-| F     | 0.0%               | NC    |
+| Grade | Minimum Percentage | 
+|-------|--------------------|
+| A     | 93.0%              |
+| A-    | 90.0%              |
+| B+    | 87.0%              |
+| B     | 83.0%              | 
+| B-    | 80.0%              | 
+| C+    | 77.7%              | 
+| C*    | 70.0%              | 
+| D+    | 67.0%              | 
+| D     | 63.0%              | 
+| D-    | 60.0%              | 
+| F     | 0.0%               | 
 
 
 `* note that this is an adjustment for the Fall 2022 semester *only* to
@@ -277,14 +268,12 @@ _There is **no** grading rounding_.
 
 
 Grading in this class will be based one:
-* Homework Assignments (7) - 60%  
-	* 8% each for Homework 1 through 6
-	* 12% for Homework 7
+* Homework Assignments (7) - 70%  
+	* 10% each for Homework 1 through 7
 * Quizzes (9) - 5%
 	* Must pass at least 8 quizzes for full credit
-* Midterms (2) - 20%
-	* 10% each
-* Cumulative Final Exam (1) - 15%
+* Midterm (1) - 10%
+* Final Exam (1) - 15%
 
 The class will have one *minor* extra credit opportunity on the final assignment. This
 will be a very difficult optional feature to add to the final assignment, and will only
@@ -394,7 +383,7 @@ over Git. *However, you should **at no point share any of your direct work** wit
 on any other team **for any reason.*** You may not share or publicly post **any homework, quiz, or exam content** in this course.
 
 Only the following people may look at your homework code for any reason:
-1. The professors  
+1. The professor 
 2. The TAs  
 3. Your team members  
 
@@ -472,14 +461,12 @@ If you pass at least 8 quizzes, you will be given 100% credit for the quiz porti
 Quizzes are **individual assignments**. Collaboration/working together (even with assignment team members for homeworks) is strictly prohibited.
 If collaboration is discovered, it will result in all parties involved receiving a zero on their entire quiz grade for the course.
 
-## Midterms
+## Midterm
 
-There will be two non-cumulative midterms during the course.
+There will be a non-cumulative midterm during the course.
 
-* Midterm 1: Tuesday, September 27, 2022, in-class
-    * Covers all material from start of class up to and including September 22
-* Midterm 2: Thursday, November 3, 2022, in-class
-    * Covers all material from September 29 up to and including November 1
+* Midterm 1: Tuesday, February 28, 2023, in-class
+    * Covers all material from start of class up to and including February 21
 
 If you know you will be absent for an exam, you must let your professor know with at least **1-week's notice**. 
 
@@ -489,8 +476,8 @@ The course final exam is cumulative, covering all material from the semester. Th
 
 The final exams scheduled for:
 
-* **12:30 p.m. Section (McBurney):** Monday, December 12, 2-5p.m.  
-* **02:00 p.m. Section (Nguyen):** Thursday, December 8, 9a.m. to 12 noon
+* **12:30 p.m. Section 001:** Monday, May 08, 9a.m. to 12 noon  
+* **02:00 p.m. Section 002:** Thursday, Mau 11, 9a.m. to 12 noon
 
 **You must attend the section you are registered for**. If you attend the wrong final exam section, your final exam will be given a zero.
 
