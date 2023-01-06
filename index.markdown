@@ -12,7 +12,7 @@ _How I learned to stop worrying and love clean code_
 
 [Online Coursepack](http://sde-course.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[Drive Folder](https://drive.google.com/drive/folders/1PnTRphKY5adKNRX_XDCGI1djVgW68uwH?usp=sharing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Drive Folder](https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=share_link){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Lecture Sessions
 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in John W. Warner Hall 209  
