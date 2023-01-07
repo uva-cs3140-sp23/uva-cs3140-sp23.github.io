@@ -37,6 +37,8 @@ logo: "/assets/images/sdeLogo.png"
 aux_links:
   "CS 3140 Coursepack":
     - "https://sde-coursepack.github.io/"
+  "Instructor Page":
+    - "https://www.cs.virginia.edu/~nn4pj/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
