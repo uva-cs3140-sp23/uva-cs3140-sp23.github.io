@@ -31,8 +31,8 @@ Drive Folder:
 
 
 ## Lecture Sections
-Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in John W. Warner Hall 209
-Section 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Wilson Hall 402
+* Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in John W. Warner Hall 209
+* Section 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Wilson Hall 402
 
 
 ## Staff Information
@@ -46,11 +46,9 @@ __Teaching Assistants:__ TBD
 
 # Communication and Logistics
 
-## Online Coursepack and YouTube Channel
+## Online Coursepack
 
 Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
-
-*posted soon*
 
 # Course Description
 
@@ -60,14 +58,13 @@ A first course in software engineering and software construction, this course fo
 {: .no_toc }
 Upon completion of this course students will:
 
-* Building larger object-oriented programs 
-* Understanding software build environment (IDEs, Build tools, etc.)
-* Working collaboratively and asynchronously with others 
-* Iterative development 
-* Designing functional and object oriented systems 
-* Front-end and back-end development 
-* Software Architectural and object-oriented design patterns, and when to use them
-
+1. Understand software build environment and tools
+2. Test and build larger object-oriented programs 
+3. Work collaboratively and asynchronously with others to develop cleaner code 
+4. Know how to design functional and object oriented systems
+5. Design software front-end and graphical user interface  
+6. Develop software back-end include database design
+7. Understand more advanced topics such as object-oriented design patterns 
 
 ### Course Topics
 {: .no_toc }    
@@ -136,10 +133,9 @@ and Submission documents.
 ## Drive Folder
 
 The student Drive Folder contains:
-- All Lecture Notes
-  - Slides
-  - Readings (including which readings are assigned for each lecture)
-  - Example Code
+- Slides
+- Readings (including which readings are assigned for each lecture)
+- Example Code
 - Up-to-date Course Schedule
 - Assignment Information
   - Directions
@@ -153,9 +149,7 @@ the Schedule page on the Course Website.
 
 Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
 
-There is no official textbook for the course that you need to purchase. Prof. McBurney
-is writing an "online textbook" at the URL above, which will generally be written about
-~2 weeks ahead of the course.
+There is no other textbook for the course that you need to purchase.
 
 If you would like to participate, you can clone the repository of the
 online textbook and submit pull requests:
@@ -224,12 +218,7 @@ We will not be using email for:
 * Regrades (use Gradescope)
 * Debugging/Coding help (use Office Hours)
 * Installation Help (use Piazza or Office Hours)
-* Homework Questions (use Piazza)
-
-12:30 students should email Prof. McBurney, while 
-2:00 students should email Prof. Nguyen.  
-You do not need to CC the other professor; we will get the other person 
-involved if necessary.  
+* Homework Questions (use Piazza)  
 
 _PLEASE_ make sure to put "[SDE]" at the beginning of the subject line
 of all emails!  And please be patient with us in 
@@ -261,24 +250,20 @@ in a class this large.
 | F     | 0.0%               | 
 
 
-`* note that this is an adjustment for the Fall 2022 semester *only* to
-remove the C- grade. In other semesters, C requires a 73%, and 70% to 72.99% is a C-
-
 _There is **no** grading rounding_.
 
 
 Grading in this class will be based one:
 * Homework Assignments (7) - 70%  
 	* 10% each for Homework 1 through 7
-* Quizzes (9) - 5%
+* Quizzes (10) - 5%
 	* Must pass at least 8 quizzes for full credit
 * Midterm (1) - 10%
 * Final Exam (1) - 15%
 
 The class will have one *minor* extra credit opportunity on the final assignment. This
 will be a very difficult optional feature to add to the final assignment, and will only
-account for ~1.0% of your final grade. There will be no other extra credit opportunities
-for any reason.
+account for ~1.0% of your final grade. There might be other extra credit opportunities (such as active class participation or question answering) at the discetion of the professor.
 
 ## Homework Assignments
 
@@ -350,12 +335,12 @@ All members of an assignment team will get the same late penalty,
 regardless of contribution (as all members of an assignment team get the 
 same grade on the assignment). 
 
-After 7 days, submissions will be accepted at 65% off until December 6th at 11:59 p.m. with
+After 7 days, submissions will be accepted at 65% off until May 2nd at 11:59 p.m. with
 the exception of Homework 7 (see below). Submissions more than one week late may not be 
 graded until the end of the term.
 
 Homework 7 will have a separate late policy - no late submissions after 
-Friday, December 9th, at 11:59 p.m. for any reason. 
+May 4th, at 11:59 p.m. for any reason. 
    1. This is in order to ensure:
       1. TAs have time to grade the final assignment
       2. Students have time to study for the final exam
@@ -465,8 +450,8 @@ If collaboration is discovered, it will result in all parties involved receiving
 
 There will be a non-cumulative midterm during the course.
 
-* Midterm 1: Tuesday, February 28, 2023, in-class
-    * Covers all material from start of class up to and including February 21
+* Midterm 1: Thursday, March 2nd, 2023, in-class
+    * Covers all material from start of class up to and including February 23
 
 If you know you will be absent for an exam, you must let your professor know with at least **1-week's notice**. 
 
