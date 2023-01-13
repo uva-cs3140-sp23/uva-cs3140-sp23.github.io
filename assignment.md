@@ -4,10 +4,6 @@ title: Assignments
 nav_order: 5
 ---
 
-# Assignment Information
-Please note that all assignment due dates for un-released assignments are tentative and
-subject to change.
-
 ## Homework 1 A/B
 
 **Objective**: Apportion representatives in the US House or Representatives based on Census Data
