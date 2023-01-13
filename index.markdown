@@ -19,6 +19,8 @@ _How I learned to stop worrying and love clean code_
 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Wilson Hall 402
 
 ## Staff Information
+<img src="https://www.cs.virginia.edu/~nn4pj/rich2017.jpg"  width="400">
+
 __Instructor:__ Prof. N. Rich Nguyen   
 Office: Rice 202   
 Office Hours: Tue & Thu 10-11a in Rice 202, Mon & Wed 10-11a on Zoom.  
