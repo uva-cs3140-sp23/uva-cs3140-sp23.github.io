@@ -27,14 +27,28 @@ Office Hours: Tue & Thu 10-11a in Rice 202, Mon & Wed 10-11a on Zoom.
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)    
 Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4pj/)    
 
-__Teaching Assistants:__ TBD  
+__Teaching Assistants:__
 
-
-## Course Schedule
-{: .no_toc }
-
-**Please be aware that homework dates are approximate, not exact.** This is because this
-schedule only shows Tuesdays and Thursdays, and homeworks may be due on other days
-of the week.
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTe0HylBkMPA6t9WwmoxMi6y9RhcNFON6A4eN5pY9kWf1HEKD6mdJKbSbkR3njW8IMysES3CrKpBCXN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1200" height="700"></iframe>
+* Jade Heilemann
+* Leigh Striffler
+* Suhaas Kanneganti
+* Choong Hyun Kim
+* Celeste Bunker
+* Iris Wu
+* Brian Christner
+* Owen Richards
+* Talia Miller
+* Andrew Cornfeld
+* Charlotte Miller
+* Jaeson Martin
+* Kevin Sandoval
+* Riley Immel
+* Fernando Canales
+* Agi Luong
+* Jonah Kim
+* Johnathan Eftink
+* Dhriti Gampa
+* Shreyas Mayya
+* Yusuf Hacking
+* Jade Gregoire
+* Stephanie Fang
