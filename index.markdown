@@ -24,8 +24,8 @@ _How I learned to stop worrying and love clean code_
 [Drive Folder](https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=share_link){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Lecture Sessions
-001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in John W. Warner Hall 209  
-002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Wilson Hall 402
+001: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in John W. Warner Hall 209  
+002: Tuesdays and Thursdays @ 3:30 PM-4:45 PM in Wilson Hall 402
 
 ## Staff Information
 ![Rich Nguyen](https://www.cs.virginia.edu/~nn4pj/rich2017.jpg#avatar)
