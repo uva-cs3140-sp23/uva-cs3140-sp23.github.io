@@ -6,6 +6,15 @@ description: "CS 3140 - Software Development Essentials"
 permalink: /
 ---
 
+<style>
+img[src$="#avatar"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+</style>
+
 # CS 3140 - Spring 2023
 ## Software Development Essentials
 _How I learned to stop worrying and love clean code_
@@ -19,7 +28,7 @@ _How I learned to stop worrying and love clean code_
 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Wilson Hall 402
 
 ## Staff Information
-<img src="https://www.cs.virginia.edu/~nn4pj/rich2017.jpg"  width="400">
+![Rich Nguyen](https://www.cs.virginia.edu/~nn4pj/rich2017.jpg#avatar)
 
 __Instructor:__ Prof. N. Rich Nguyen   
 Office: Rice 202   
