@@ -31,8 +31,8 @@ Drive Folder:
 
 
 ## Lecture Sections
-* Section 001: Tuesdays and Thursdays @ 12:30 PM-1:45 PM in John W. Warner Hall 209
-* Section 002: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Wilson Hall 402
+* Section 001: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in John W. Warner Hall 209
+* Section 002: Tuesdays and Thursdays @ 3:30 PM-4:45 PM in Wilson Hall 402
 
 
 ## Staff Information
@@ -41,8 +41,6 @@ Office: Rice 202
 Office Hours: TBD  
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)    
 Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4pj/)    
-
-__Teaching Assistants:__ TBD  
 
 # Communication and Logistics
 
