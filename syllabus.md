@@ -259,7 +259,7 @@ Grading in this class will be based one:
 * Quizzes (10) - 5%
 	* Must pass at least 8 quizzes for full credit
 * Midterm (1) - 10%
-* Final Exam (1) - 15%
+* Exam (1) - 15%
 
 The class will have one *minor* extra credit opportunity on the final assignment. This
 will be a very difficult optional feature to add to the final assignment, and will only
@@ -450,19 +450,16 @@ If collaboration is discovered, it will result in all parties involved receiving
 
 There will be a non-cumulative midterm during the course.
 
-* Midterm 1: Thursday, March 2nd, 2023, in-class
+* Midterm: Thursday, March 2nd, 2023, in-class
     * Covers all material from start of class up to and including February 23
 
 If you know you will be absent for an exam, you must let your professor know with at least **1-week's notice**. 
 
 ## Cumulative Final Exam
 
-The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after Midterm 2, but all content from the course is considered "fair game."
+The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after the Midterm, but all content from the course is considered "fair game."
 
-The final exams scheduled for:
-
-* **12:30 p.m. Section 001:** Monday, May 08, 9a.m. to 12 noon  
-* **02:00 p.m. Section 002:** Thursday, Mau 11, 9a.m. to 12 noon
+The final exams scheduled for: Monday, May 08,  7 p.m. to 10 p.m.  
 
 **You must attend the section you are registered for**. If you attend the wrong final exam section, your final exam will be given a zero.
 
