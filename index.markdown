@@ -61,3 +61,5 @@ __Teaching Assistants:__
 * Yusuf Hacking
 * Jade Gregoire
 * Stephanie Fang
+* Grant Sweeney
+* Han Fan
