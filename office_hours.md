@@ -6,9 +6,9 @@ nav_order: 6
 
 The most up-to-date Office Hours Schedule:
 
-**UPDATE:** To help you in timely order and be fair to everyone, we are implementing an OH Queue. The OH Queue which will provide you a chance to see your place in line and you can add your question while you wait. It also helps on-duty TAs to group students with the same question and helps them faster. **You must enter your name in the queue before enter the Zoom waiting room**.
+**UPDATE:** To help you in a timely order and be fair to everyone, we are implementing an Office Hour Queue. The Office Hour Queue which will provide you a chance to see your place in line and you can add your question while you wait. It also helps on-duty TAs to group students with the same question and helps them faster. **You must enter your name in the queue before enter the Zoom waiting room**.
 
-[Office Hour Queue]( https://external.ink?to=/https://docs.google.com/spreadsheets/d/1Xt-MTYbIgXr_WNsWkL87SMuA_ilqhnvQ8llT8rZsJ_4/edit#gid=0 target="_blank"){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Office Hour Queue](https://docs.google.com/spreadsheets/d/1Xt-MTYbIgXr_WNsWkL87SMuA_ilqhnvQ8llT8rZsJ_4/edit#gid=0){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 Times are subject to change week-to-week, so refer to the calendar below.
 
