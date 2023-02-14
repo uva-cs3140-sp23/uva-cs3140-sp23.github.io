@@ -46,10 +46,12 @@ Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)
 Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4pj/)    
 
 __Teaching Assistants:__
- [![image alt text](image URL link)](anchor link)
- 
-[![Jade Heilemann](https://media.licdn.com/dms/image/D4E03AQEAWOyldsgX3g/profile-displayphoto-shrink_800_800/0/1668801713152?e=1681948800&v=beta&t=OSJipLr2sninE7EiDEcS8Wm6OYhMi38w9VuZnZLSJ4M#avatarta)](https://www.linkedin.com/in/jade-heilemann/)
-<figcaption>Jade Heilemann</figcaption>
+
+ [![Jade Heilemann](https://media.licdn.com/dms/image/D4E03AQEAWOyldsgX3g/profile-displayphoto-shrink_800_800/0/1668801713152?e=1681948800&v=beta&t=OSJipLr2sninE7EiDEcS8Wm6OYhMi38w9VuZnZLSJ4M#avatarta)](https://www.linkedin.com/in/jade-heilemann/)
+
+<figcaption>
+  Jade Heilemann
+</figcaption>
 
 * Leigh Striffler
 * Suhaas Kanneganti
