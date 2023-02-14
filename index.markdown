@@ -13,6 +13,13 @@ img[src$="#avatar"] {
   border-radius: 50%;
   max-width: 50%;
 }
+img[src$="#avatarta"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  height: 25px;
+  max-width: 25%;
+}
 </style>
 
 # CS 3140 - Spring 2023
@@ -22,6 +29,8 @@ _How I learned to stop worrying and love clean code_
 [Online Coursepack](http://sde-course.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 [Drive Folder](https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=share_link){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+[Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe0HylBkMPA6t9WwmoxMi6y9RhcNFON6A4eN5pY9kWf1HEKD6mdJKbSbkR3njW8IMysES3CrKpBCXN/pubhtml?gid=0&single=true&widget=true&headers=false){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Lecture Sessions
 001: Tuesdays and Thursdays @ 2:00 PM-3:15 PM in John W. Warner Hall 209  
@@ -37,8 +46,11 @@ Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)
 Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4pj/)    
 
 __Teaching Assistants:__
+ [![image alt text](image URL link)](anchor link)
+ 
+[![Jade Heilemann](https://media.licdn.com/dms/image/D4E03AQEAWOyldsgX3g/profile-displayphoto-shrink_800_800/0/1668801713152?e=1681948800&v=beta&t=OSJipLr2sninE7EiDEcS8Wm6OYhMi38w9VuZnZLSJ4M#avatarta)](https://www.linkedin.com/in/jade-heilemann/)
+<figcaption>Jade Heilemann</figcaption>
 
-* Jade Heilemann
 * Leigh Striffler
 * Suhaas Kanneganti
 * Choong Hyun Kim
