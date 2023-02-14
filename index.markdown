@@ -17,7 +17,7 @@ img[src$="#avatarta"] {
   display: block;
   margin: 0 auto;
   border-radius: 50%;
-  height: 25px;
+  height: 7%;
   max-width: 25%;
 }
 </style>
