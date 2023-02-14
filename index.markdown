@@ -10,15 +10,19 @@ permalink: /
 img[src$="#avatar"] {
   display: block;
   margin: 0 auto;
+  height: 10%
   border-radius: 50%;
   max-width: 50%;
 }
 img[src$="#avatarta"] {
-  display: block;
+  display: inline;
   margin: 0 auto;
   border-radius: 50%;
-  height: 7%;
+  height: 5%;
   max-width: 25%;
+}
+.caption {
+  
 }
 </style>
 
@@ -47,33 +51,28 @@ Website: [https://www.cs.virginia.edu/~nn4pj/](https://www.cs.virginia.edu/~nn4p
 
 __Teaching Assistants:__
 
- [![Jade Heilemann](https://media.licdn.com/dms/image/D4E03AQEAWOyldsgX3g/profile-displayphoto-shrink_800_800/0/1668801713152?e=1681948800&v=beta&t=OSJipLr2sninE7EiDEcS8Wm6OYhMi38w9VuZnZLSJ4M#avatarta)](https://www.linkedin.com/in/jade-heilemann/)
-
-<figcaption>
-  Jade Heilemann
-</figcaption>
-
-* Leigh Striffler
-* Suhaas Kanneganti
-* Choong Hyun Kim
-* Celeste Bunker
-* Iris Wu
-* Brian Christner
-* Owen Richards
-* Talia Miller
-* Andrew Cornfeld
-* Charlotte Miller
-* Jaeson Martin
-* Kevin Sandoval
-* Riley Immel
-* Fernando Canales
-* Agi Luong
-* Jonah Kim
-* Johnathan Eftink
-* Dhriti Gampa
-* Shreyas Mayya
-* Yusuf Hacking
-* Jade Gregoire
-* Stephanie Fang
-* Grant Sweeney
-* Han Fan
+* [Jade Heilemann](https://www.linkedin.com/in/jade-heilemann/)
+* [Leigh Striffler](https://www.linkedin.com/in/leigh-striffler/)
+* [Suhaas Kanneganti]()
+* [Choong Hyun Kim](https://www.linkedin.com/in/choong-hyun-kim-1200461b6/)
+* [Celeste Bunker](https://www.linkedin.com/in/celeste-bunker-505127208/)
+* [Iris Wu](https://www.linkedin.com/in/iris-wu-9a23511a8/)
+* [Brian Christner]()
+* [Owen Richards](https://www.linkedin.com/in/owenlrichards/)
+* [Talia Miller](https://www.linkedin.com/in/talia-miller123/)
+* [Andrew Cornfeld](https://www.linkedin.com/in/andrew-cornfeld-7a385215b/)
+* [Charlotte Miller]()
+* [Jaeson Martin](https://www.linkedin.com/in/jaeson-martin-a1114a252/)
+* [Kevin Sandoval]()
+* [Riley Immel](https://www.linkedin.com/in/rileyimmel/)
+* [Fernando Canales]()
+* [Agi Luong]()
+* [Jonah Kim]()
+* [Johnathan Eftink]()
+* [Dhriti Gampa](https://www.linkedin.com/in/dhritigampa/)
+* [Shreyas Mayya](https://www.linkedin.com/in/smayya337/)
+* [Yusuf Hacking](https://www.linkedin.com/in/yusufhacking/)
+* [Jade Gregoire](https://www.linkedin.com/in/jade-gregoire/)
+* [Stephanie Fang](https://www.linkedin.com/in/stephanie-fang-50416a234/)
+* [Grant Sweeney](https://www.linkedin.com/in/grant-sweeney-161962172/)
+* [Han Fan]()
